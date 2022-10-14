@@ -39,13 +39,13 @@ Install project with XAMPP
 
 4.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+5. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-8. Create a database with name dblms
+6. Create a database with name dblms
 
-6. Import dblms.sql file(given inside the zip package in SQL file folder)
+7. Import dblms.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/plpFinalProject
+8.Run the script http://localhost/plpFinalProject
 ````
 
 
