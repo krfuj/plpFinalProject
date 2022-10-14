@@ -64,10 +64,10 @@ Visit my website*****
 ## Screenshots
 
 these are screeenshots of the home homescreen on login the website 
-![App Screenshot](asset/screenshots/home.png)
-![App Screenshot](assets/screenshots/login.png)
-![App Screenshot](asset/screenshots/dashboard.png)
-![App Screenshot](assets/screenshots/createCo.png)
+![Home](assets/screenshots/home.png)
+![Login](assets/screenshots/login.png)
+![Dashboard](assets/screenshots/dashboard.png)
+![Create course](assets/screenshots/createCo.png)
 
 
 ## Badges
